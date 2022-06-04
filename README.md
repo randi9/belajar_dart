@@ -23,3 +23,12 @@ void main() {
   print(namaSaya);
 }
 ```
+## deklarasi langsung
+```bash
+void main() {
+  String namaSaya = ('Muhamad randi Septiansah');
+
+  print(namaSaya);
+  print(namaSaya);
+}
+```
