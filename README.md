@@ -37,7 +37,7 @@ void main() {
 }
 ```
 ## var
-langsung menentukan tipe data secara otomatis
+menentukan tipe data secara otomatis
 
 ```bash
 void main() {
