@@ -2,7 +2,7 @@
 6 april 2022
 
 ## print
-*.dart
+.dart
 void main() {
   print('Muhamad Randi Septiansah');
 }
