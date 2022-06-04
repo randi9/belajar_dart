@@ -14,10 +14,12 @@ void main() {
 ## Variable
 ```bash
 void main() {
-  String namaManusia;
-  namaManusia = ('Muhamad Randi Septiansah Ganteng');
+  String namaSaya;
+  namaSaya = ('Muhamad Randi Septiansah');
 
-  print(namaManusia);
-  print(namaManusia);
+  print(namaSaya);
+  print(namaSaya);
+  print(namaSaya);
+  print(namaSaya);
 }
 ```
