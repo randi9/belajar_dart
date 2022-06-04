@@ -47,3 +47,24 @@ void main() {
   print(namaSaya);
 }
 ```
+## final
+tipe data final tidak bisa menduplikasi value
+tipe data var bisa menduplikasi value
+
+```bash
+void main() {
+  var namaSaya = ('Muhamad randi Septiansah');
+
+  print(namaSaya);
+  print(namaSaya);
+
+  var namaAwal = ('randi');
+  final namaAkhir = ('septiansah');
+
+  namaAwal = ('usop');
+  namaAkhir = ('ujang');
+
+  print(namaAwal);
+  print(namaAkhir);
+}
+```
