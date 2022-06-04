@@ -12,6 +12,8 @@ void main() {
 ```
 
 ## Variable
+untuk mengulang output tanpa penambahan ukuran data
+
 ```bash
 void main() {
   String namaSaya;
@@ -24,6 +26,19 @@ void main() {
 }
 ```
 ## deklarasi langsung
+versi lebih simpelnya
+
+```bash
+void main() {
+  String namaSaya = ('Muhamad randi Septiansah');
+
+  print(namaSaya);
+  print(namaSaya);
+}
+```
+## var
+langsung menentukan tipe data secara otomatis
+
 ```bash
 void main() {
   String namaSaya = ('Muhamad randi Septiansah');
